@@ -1,4 +1,4 @@
-
+//Primeiro da lista
 function obterPrimeiraTarefa() {
   const tarefas = ["Estudar", "Fazer compras", "Limpar a casa", "Fazer exercícios"];
   const primeiraTarefa = tarefas.shift();

@@ -1,3 +1,4 @@
+//Quantidade
 const produtos = [
   { nome: "Celular", quantidade: 10 },
   { nome: "Notebook", quantidade: 5 },
